@@ -1,4 +1,4 @@
-# یک ابزار دیداس نوشته شده برای حمله به سایت های ضعیف یا متوسط 
+⁸# یک ابزار دیداس نوشته شده برای حمله به سایت های ضعیف یا متوسط 
 
 پیش نیاز ها
 # apt update 
@@ -9,3 +9,12 @@
 # pip install pyfiglet
 
 نصب و اجرای اسکريپت 
+# git clone https://github.com/saeedkhazaii998/DDos-script-SaEeD.git
+
+# ls
+
+# cd DDos-script-SaEeD 
+
+# ls
+
+# python DDos.py
